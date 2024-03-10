@@ -1,0 +1,60 @@
+
+<!--============== head =========-->
+<?php include 'includes/_head.php' ?>
+
+
+<!--============== head =========-->
+<?php include 'includes/_navbar.php' ?>
+
+
+
+<!-- thumnail-blog is foto site -->
+
+
+		
+		<!-- Jumbotron, w title -->
+		<div class="jumbotron text-center jumbotron-fluid">
+			<div class="container">
+				<h1>Statische website's</h1>
+				
+			</div>
+		</div>
+
+		<!-- Main container -->
+		<div class="container">
+
+			<!-- Latest blog posts -->
+			<div class="row section">
+				<div class="col-md-12">
+					<h3>Alle Statische Website</h3>
+				</div>
+			</div>
+
+			<!-- Alle statische website's hier onder. -->
+			<div class="row">
+
+			<!-- web 1 --> 
+				<div class="col-md-4">
+					<a href="website's/site1"><div class="thumbnail-blog">
+						<div class="thumbnail-img" style="background-image:url('images/website/screenw1.jpg')"></div>
+						<h5>Web 1</h5>
+					</div></a>
+				</div>
+			<!-- einde 1 -->
+
+
+
+
+
+
+
+
+			</div>
+
+		</div>
+		
+
+
+
+		<!--============== head =========-->
+<?php include 'includes/_footer.php' ?>
